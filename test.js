@@ -1,2 +1,2 @@
-import { helloWorld } from "./modules/helloWorld";
+import { helloWorld } from "./modules/helloWorld.js";
 helloWorld();
