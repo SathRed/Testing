@@ -1,3 +1,3 @@
 export const helloWorld = () => {
-  alert("Hello world!");
+  document.querySelector("p").innerHTML = "Hello World!";
 }
